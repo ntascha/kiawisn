@@ -56,7 +56,7 @@ get_header();
     </div>
 </div>
 <div class="events">
-    <a href="http://localhost/kiawisn/events/">
+    <a href="events.php">
         <img class="events__img" src="<?php echo get_template_directory_uri(); ?>/images/Veranstaltungen-Img.jpg" alt="">
         <div class="events__overlay"></div>
         <h1 class="events__h1">Veranstaltungen</h1>

@@ -7,7 +7,8 @@
   src: url(fonts/open-sans.ttf);
 }
 body {
-  background: url("images/Background.png") no-repeat center center fixed;
+  background: url("images/Background.png");
+  background-size: 100%;
   margin: 48px 36px;
   display: flex;
   flex-direction: column;

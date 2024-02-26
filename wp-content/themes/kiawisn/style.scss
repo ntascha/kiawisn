@@ -1,8 +1,9 @@
 @import "fonts";
 
 body {
-   background: url("images/Background.png") no-repeat center center fixed;
-   margin: 48px 36px;
+  background: url("images/Background.png");
+  background-size: 100%;
+  margin: 48px 36px;
    display: flex;
    flex-direction: column;
    align-items: center;
